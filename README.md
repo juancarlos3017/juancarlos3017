@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juancarlos3017
 - 👀 I’m interested in html, css, java script
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently leanrning and working
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me juancarlos3017@gmail.com
 
